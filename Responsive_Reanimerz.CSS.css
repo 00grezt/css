@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* Responsive Screen Reanimer'z*/
+/* PC atau Computer*/
+@media (min-width: 1200px)
+{
+}
+@media (min-width: 781px) and (max-width: 1199px)
+{
+.Reanimerz{font:18px calibri;}
+.Reanimerz .layhead,
+.Reanimerz .sinopsis .sinhead {
+	font:20px calibri bold;
+	height:29px;}
+.Reanimerz .passlabel, .Reanimerz .passtext{
+	font:16px Calibri bold;
+	height:27px;
+}
+.Reanimerz .sintext{
+	font-size:18px;}
+.Reanimerz .foot-not{
+	font:16px Calibri bold;
+	height:27px;
+	}
+.Reanimerz .tubn{
+	height:400px;}
+.Reanimerz .coll-3 ,	
+.Reanimerz .coll-1 , 
+.Reanimerz .coll-2 ,
+.Reanimerz .coll ,
+.Reanimerz .coll .coll1 ,
+.Reanimerz .coll .coll2 ,
+.Reanimerz .coll .coll3 ,
+.Reanimerz .coll .coll4 ,
+.Reanimerz .coll .coll5 ,
+.Reanimerz .coll .coll6 ,
+.Reanimerz .coll .coll7 ,
+.Reanimerz .coll .coll8 {
+	font:16px calibri;
+	height:25px;}
+.Reanimerz .tabs label{
+	font:20px Calibri bold;
+	border:none;
+}
+}
+/*Android / Smartphone : 780px X 480px*/
+@media (min-width: 481px) and (max-width: 780px){
+.Reanimerz{font:16px calibri;}
+.Reanimerz .layhead,
+.Reanimerz .sinopsis .sinhead,
+.Reanimerz .passlabel, .Reanimerz .passtext{
+	font:16px Calibri bold;
+	height:27px;
+}
+.Reanimerz .sintext{
+	font-size:16px;}
+.Reanimerz .foot-not{
+	font:16px Calibri bold;
+	height:27px;
+	}
+.Reanimerz .tubn{
+	height:280px;}
+.Reanimerz .coll-3 ,	
+.Reanimerz .coll-1 , 
+.Reanimerz .coll-2 ,
+.Reanimerz .coll ,
+.Reanimerz .coll .coll1 ,
+.Reanimerz .coll .coll2 ,
+.Reanimerz .coll .coll3 ,
+.Reanimerz .coll .coll4 ,
+.Reanimerz .coll .coll5 ,
+.Reanimerz .coll .coll6 ,
+.Reanimerz .coll .coll7 ,
+.Reanimerz .coll .coll8 {
+	font:15px calibri;
+	height:25px;}
+.Reanimerz .tabs label{
+	font:16px Calibri bold;
+	border:none;
+}
+
+}
+/*Hp Smartphone : 480px X 320px*/
+@media (min-width: 321px) and (max-width: 480px){
+.Reanimerz{font:16px calibri;}
+.Reanimerz .layhead,
+.Reanimerz .sinopsis .sinhead,
+.Reanimerz .passlabel, .Reanimerz .passtext{
+	font:16px Calibri bold;
+	height:25px;
+}
+.Reanimerz .sintext{
+	font-size:15px;}
+.Reanimerz .foot-not{
+	font:14px Calibri bold;
+	height:25px;
+	}
+.Reanimerz .tubn{
+	height:200px;}
+.Reanimerz .coll-3 ,	
+.Reanimerz .coll-1 , 
+.Reanimerz .coll-2 ,
+.Reanimerz .coll ,
+.Reanimerz .coll .coll1 ,
+.Reanimerz .coll .coll2 ,
+.Reanimerz .coll .coll3 ,
+.Reanimerz .coll .coll4 ,
+.Reanimerz .coll .coll5 ,
+.Reanimerz .coll .coll6 ,
+.Reanimerz .coll .coll7 ,
+.Reanimerz .coll .coll8 {
+	font:12px calibri bold;
+	height:20px;}
+.Reanimerz .tabs label{
+	font:14px Calibri bold;
+	border:none;
+}
+}
+/*Hp Nyitnyet :320px X 240px  */
+@media (min-width: 240px) and (max-width: 320px){
+.Reanimerz{font:11px calibri;}
+.Reanimerz .layhead,
+.Reanimerz .sinopsis .sinhead,
+.Reanimerz .passlabel, .passtext{
+	font:14px Calibri bold;
+	height:20px;
+}
+.Reanimerz .sintext{
+	font-size:12px;}
+.Reanimerz .foot-not{
+	font:11px Calibri bold;
+	height:22px;
+	}
+.Reanimerz .tubn{
+	height:180px;}
+.Reanimerz .coll-3 ,
+.Reanimerz .coll-1 , 
+.Reanimerz .coll-2 ,
+.Reanimerz .coll ,
+.Reanimerz .coll .coll1 ,
+.Reanimerz .coll .coll2 ,
+.Reanimerz .coll .coll3 ,
+.Reanimerz .coll .coll4 ,
+.Reanimerz .coll .coll5 ,
+.Reanimerz .coll .coll6 ,
+.Reanimerz .coll .coll7 ,
+.Reanimerz .coll .coll8 {
+	font:10px calibri bold;
+	height:16px;}
+.Reanimerz .tabs label{
+	font:13px Calibri bold;
+	color:#222;
+	border:none;
+}
+}
+/*Hp Nyitnyet :240px X 100px  */
+@media (min-width: 100px) and (max-width: 239px){
+.Reanimerz{font:10px calibri;}
+.Reanimerz .layhead,
+.Reanimerz .sinopsis .sinhead {
+	font:10px calibri bold;
+	height:16px;}
+.Reanimerz .passlabel, .passtext{
+	font:10px Calibri bold;
+	height:10px;
+}
+.Reanimerz .sintext{
+	font-size:11px;}
+.Reanimerz .foot-not{
+	font:9px Calibri bold;
+	height:20px;
+	}
+.Reanimerz .tubn{
+	height:100px;}
+.Reanimerz .coll-3 ,
+.Reanimerz .coll-1 , 
+.Reanimerz .coll-2 ,
+.Reanimerz .coll ,
+.Reanimerz .coll .coll1 ,
+.Reanimerz .coll .coll2 ,
+.Reanimerz .coll .coll3 ,
+.Reanimerz .coll .coll4 ,
+.Reanimerz .coll .coll5 ,
+.Reanimerz .coll .coll6 ,
+.Reanimerz .coll .coll7 ,
+.Reanimerz .coll .coll8 {
+	font:8px calibri bold;
+	height:20px;}
+.Reanimerz .tabs label{
+	font:10px Calibri bold;
+	color:#222;
+	border:none;
+	width:32.333%;
+}
+}
