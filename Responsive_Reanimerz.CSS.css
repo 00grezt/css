@@ -188,15 +188,15 @@
 	border:none;
 	width:32.333%;
 }
-@media (width:1024px){
+@media (max-width:1024px){
 .Reanimerz #tab-content1 #isi .reimage{
 	width:450px;}
 }
-@media (width:800px){
+@media (max-width:800px){
 .Reanimerz #tab-content1 #isi .reimage{
 	width:340px;}
 }
-@media (width:480px){
+@media (max-width:480px){
 .Reanimerz #tab-content1 #isi .reimage{
 	width:240px;}
 }
