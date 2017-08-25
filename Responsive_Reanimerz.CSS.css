@@ -200,3 +200,8 @@
 .Reanimerz #tab-content1 #isi .reimage{
 	width:240px;}
 }
+@media (max-width:320px){
+.Reanimerz #tab-content1 #isi .reimage{
+	width:180px;
+	}
+	}
