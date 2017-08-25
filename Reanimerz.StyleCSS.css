@@ -177,7 +177,7 @@ body{
 .Reanimerz .tabs{
 	background:#292929;
 	width:100%;
-	max-width:100%;
+	max-width:550px;
 	float:none;
 	list-style:none;
 	padding:20px 0 0 0;
