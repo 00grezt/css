@@ -34,6 +34,8 @@
 .Reanimerz .coll .coll8 {
 	font:16px calibri;
 	height:25px;}
+.Reanimerz .tabs{
+	width:550px;}
 .Reanimerz .tabs label{
 	font:20px Calibri bold;
 	border:none;
@@ -70,13 +72,15 @@
 .Reanimerz .coll .coll8 {
 	font:15px calibri;
 	height:25px;}
+.Reanimerz .tabs{
+	width:450px;}
 .Reanimerz .tabs label{
 	font:16px Calibri bold;
 	border:none;
 }
 
 }
-/*Hp Smartphone : 480px X 320px*/
+/*Hp Smartphone */
 @media (min-width: 321px) and (max-width: 480px){
 .Reanimerz{font:16px calibri;}
 .Reanimerz .layhead,
@@ -107,6 +111,9 @@
 .Reanimerz .coll .coll8 {
 	font:12px calibri bold;
 	height:20px;}
+	.Reanimerz .tabs{
+	width:420px;
+	}
 .Reanimerz .tabs label{
 	font:14px Calibri bold;
 	border:none;
@@ -182,6 +189,9 @@
 .Reanimerz .coll .coll8 {
 	font:8px calibri bold;
 	height:20px;}
+.Reanimerz .tabs{
+	width:240px;
+	}
 .Reanimerz .tabs label{
 	font:10px Calibri bold;
 	color:#222;
