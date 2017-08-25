@@ -6,9 +6,6 @@ a{
 a:hover{
 	color:#CC4141;
 	text-decoration:none;}
-body{
-	background-color:#3A3A3A;
-	font:14pt Calibri;}
 .Reanimerz{
 	background-color:#FFFFFF;
 	width:100%;
@@ -177,7 +174,6 @@ body{
 .Reanimerz .tabs{
 	background:#292929;
 	width:100%;
-	max-width:550px;
 	float:none;
 	list-style:none;
 	padding:20px 0 0 0;
