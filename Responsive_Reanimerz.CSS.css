@@ -1,9 +1,9 @@
 @charset "utf-8";
 /* Responsive Screen Reanimer'z*/
 
-@media (min-width:1200px){
+@media (min-width:1200px) and (max-width:1900px;){
 .Reanimerz #tab-content1 #isi .reimage{
-	width:450px;}
+	width:550px;}
 /* PC atau Computer*/
 @media (min-width: 781px) and (max-width: 1199px)
 {
@@ -17,7 +17,7 @@
 	height:27px;
 }
 .Reanimerz #tab-content1 #isi .reimage{
-	width:340px;}
+	width:500px;
 .Reanimerz .sintext{
 	font-size:18px;}
 .Reanimerz .foot-not{
@@ -55,7 +55,7 @@
 	height:27px;
 }
 .Reanimerz #tab-content1 #isi .reimage{
-	width:240px;}
+	width:350px;}
 
 .Reanimerz .sintext{
 	font-size:16px;}
@@ -94,6 +94,8 @@
 	font:16px Calibri bold;
 	height:25px;
 }
+.Reanimerz #tab-content1 #isi .reimage{
+	width:400px;
 .Reanimerz .sintext{
 	font-size:15px;}
 .Reanimerz .foot-not{
@@ -138,7 +140,7 @@
 	height:22px;
 	}
 .Reanimerz #tab-content1 #isi .reimage{
-	width:180px;}
+	width:200px;}
 .Reanimerz .tubn{
 	height:180px;}
 .Reanimerz .coll-3 ,
