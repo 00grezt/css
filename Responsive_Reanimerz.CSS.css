@@ -1,5 +1,9 @@
 @charset "utf-8";
 /* Responsive Screen Reanimer'z*/
+
+@media (min-width:1200px){
+.Reanimerz #tab-content1 #isi .reimage{
+	width:450px;}
 /* PC atau Computer*/
 @media (min-width: 781px) and (max-width: 1199px)
 {
@@ -12,6 +16,8 @@
 	font:16px Calibri bold;
 	height:27px;
 }
+.Reanimerz #tab-content1 #isi .reimage{
+	width:340px;}
 .Reanimerz .sintext{
 	font-size:18px;}
 .Reanimerz .foot-not{
@@ -50,6 +56,9 @@
 	font:16px Calibri bold;
 	height:27px;
 }
+.Reanimerz #tab-content1 #isi .reimage{
+	width:240px;}
+
 .Reanimerz .sintext{
 	font-size:16px;}
 .Reanimerz .foot-not{
@@ -134,6 +143,8 @@
 	font:11px Calibri bold;
 	height:22px;
 	}
+.Reanimerz #tab-content1 #isi .reimage{
+	width:180px;}
 .Reanimerz .tubn{
 	height:180px;}
 .Reanimerz .coll-3 ,
@@ -199,20 +210,3 @@
 	width:32.333%;
 }
 }
-@media (max-width:1024px){
-.Reanimerz #tab-content1 #isi .reimage{
-	width:450px;}
-}
-@media (max-width:800px){
-.Reanimerz #tab-content1 #isi .reimage{
-	width:340px;}
-}
-@media (max-width:480px){
-.Reanimerz #tab-content1 #isi .reimage{
-	width:240px;}
-}
-@media (max-width:320px){
-.Reanimerz #tab-content1 #isi .reimage{
-	width:180px;}
-	}
-
