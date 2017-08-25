@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* Responsive Screen Reanimer'z*/
 /* PC atau Computer*/
-@media (min-width: 781px) and (max-width: 1199px)
+@media (min-width: 800px)
 {
 .Reanimerz{font:18px calibri;}
 .Reanimerz .layhead,
@@ -41,8 +41,9 @@
 	border:none;
 }
 }
-/*Android / Smartphone : 780px X 480px*/
-@media (min-width: 481px) and (max-width: 780px){
+/*Android / Smartphone */
+@media (min-width: 481px)
+{
 .Reanimerz{font:16px calibri;}
 .Reanimerz .layhead,
 .Reanimerz .sinopsis .sinhead,
@@ -81,7 +82,8 @@
 
 }
 /*Hp Smartphone */
-@media (min-width: 321px) and (max-width: 480px){
+@media (min-width: 321px)
+{
 .Reanimerz{font:16px calibri;}
 .Reanimerz .layhead,
 .Reanimerz .sinopsis .sinhead,
@@ -120,7 +122,7 @@
 }
 }
 /*Hp Nyitnyet :320px X 240px  */
-@media (min-width: 240px) and (max-width: 320px){
+@media (min-width: 240px){
 .Reanimerz{font:11px calibri;}
 .Reanimerz .layhead,
 .Reanimerz .sinopsis .sinhead,
@@ -157,7 +159,7 @@
 }
 }
 /*Hp Nyitnyet :240px X 100px  */
-@media (min-width: 100px) and (max-width: 239px){
+@media (min-width: 180px){
 .Reanimerz{font:10px calibri;}
 .Reanimerz .layhead,
 .Reanimerz .sinopsis .sinhead {
