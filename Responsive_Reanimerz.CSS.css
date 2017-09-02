@@ -2,8 +2,7 @@
 /* Responsive Screen Reanimer'z*/
 
 @media (min-width:1200px) and (max-width:1900px;){
-.Reanimerz #tab-content1 #isi .reimage{
-	width:550px;}}
+}
 /* PC atau Computer*/
 @media (min-width: 781px) and (max-width: 1199px)
 {
@@ -16,8 +15,6 @@
 	font:16px Calibri bold;
 	height:27px;
 }
-.Reanimerz #tab-content1 #isi .reimage{
-	width:500px;
 .Reanimerz .sintext{
 	font-size:18px;}
 .Reanimerz .foot-not{
@@ -54,9 +51,6 @@
 	font:16px Calibri bold;
 	height:27px;
 }
-.Reanimerz #tab-content1 #isi .reimage{
-	width:350px;}
-
 .Reanimerz .sintext{
 	font-size:16px;}
 .Reanimerz .foot-not{
@@ -94,8 +88,6 @@
 	font:16px Calibri bold;
 	height:25px;
 }
-.Reanimerz #tab-content1 #isi .reimage{
-	width:400px;
 .Reanimerz .sintext{
 	font-size:15px;}
 .Reanimerz .foot-not{
@@ -139,8 +131,6 @@
 	font:11px Calibri bold;
 	height:22px;
 	}
-.Reanimerz #tab-content1 #isi .reimage{
-	width:200px;}
 .Reanimerz .tubn{
 	height:180px;}
 .Reanimerz .coll-3 ,
